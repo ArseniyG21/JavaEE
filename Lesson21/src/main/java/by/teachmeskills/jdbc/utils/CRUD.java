@@ -1,6 +1,6 @@
-package jdbc.utils;
+package by.teachmeskills.jdbc.utils;
 
-import jdbc.model.Product;
+import by.teachmeskills.jdbc.model.Product;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

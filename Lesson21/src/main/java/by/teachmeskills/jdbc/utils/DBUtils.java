@@ -1,4 +1,4 @@
-package jdbc.utils;
+package by.teachmeskills.jdbc.utils;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

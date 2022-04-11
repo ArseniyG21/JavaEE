@@ -1,4 +1,4 @@
-package jdbc.model;
+package by.teachmeskills.jdbc.model;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
