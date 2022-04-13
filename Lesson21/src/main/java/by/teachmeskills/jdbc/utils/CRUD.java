@@ -10,7 +10,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CRUD {
-
     private static String GET_ALL_PRODUCTS_QUERY = "SELECT * FROM products";
     private static String INSERT_PRODUCT_QUERY = "INSERT INTO products(name, description, price, amount, isStock) VALUES(?, ?, ?, ?, ?);";
     private static String UPDATE_PRODUCT_QUERY = "UPDATE products SET isStock = ? WHERE amount = ?;";
@@ -94,4 +93,5 @@ public class CRUD {
 
         return updatedProducts;
     }
+
 }

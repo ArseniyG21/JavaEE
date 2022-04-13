@@ -1,5 +1,6 @@
 package by.teachmeskills.jdbc.model;
 
+
 import lombok.Getter;
 import lombok.Setter;
 
