@@ -3,8 +3,7 @@ CREATE SCHEMA IF EXISTS store_db;
 
 DROP TABLE IF EXISTS store_db.producsts;
 CREATE TABLE IF EXISTS store_db.products
-(
-    id INT NOT NULL AUTO_INCREMENT,
+(   id INT NOT NULL AUTO_INCREMENT,
     name VARCHAR(50) NOT NULL,
     description VARCHAR(200) NOT NULL,
     price DOUBLE NOT NULL,

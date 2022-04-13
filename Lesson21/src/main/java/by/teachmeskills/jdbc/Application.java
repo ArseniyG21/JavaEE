@@ -18,7 +18,7 @@ public class Application {
         System.out.println(CRUD.updateProduct(false, 0));
         System.out.println("----------------------------------------------------");
 
-//        System.out.println("Deleted products: ");
-//        System.out.println(CRUD.deleteProduct(0));
+        System.out.println("Deleted products: ");
+        System.out.println(CRUD.deleteProduct(0));
     }
 }
