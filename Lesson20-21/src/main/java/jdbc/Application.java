@@ -1,7 +1,7 @@
-package by.teachmeskills.jdbc;
+package jdbc;
 
-import by.teachmeskills.jdbc.model.Product;
-import by.teachmeskills.jdbc.utils.CRUD;
+import jdbc.model.Product;
+import jdbc.utils.CRUD;
 
 public class Application {
     public static void main(String[] args) {

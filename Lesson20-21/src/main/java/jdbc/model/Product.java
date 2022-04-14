@@ -1,4 +1,4 @@
-package by.teachmeskills.jdbc.model;
+package jdbc.model;
 
 
 import lombok.Getter;
